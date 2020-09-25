@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver2\\OOP_opgaver2\\OOP_opgaver2.csproj": {}
+    "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver3\\gameObject\\gameObject\\gameObject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver2\\OOP_opgaver2\\OOP_opgaver2.csproj": {
+    "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver3\\gameObject\\gameObject\\gameObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver2\\OOP_opgaver2\\OOP_opgaver2.csproj",
-        "projectName": "OOP_opgaver2",
-        "projectPath": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver2\\OOP_opgaver2\\OOP_opgaver2.csproj",
+        "projectUniqueName": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver3\\gameObject\\gameObject\\gameObject.csproj",
+        "projectName": "gameObject",
+        "projectPath": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver3\\gameObject\\gameObject\\gameObject.csproj",
         "packagesPath": "C:\\Users\\datem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver2\\OOP_opgaver2\\obj\\",
+        "outputPath": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\OOP_opgaver3\\gameObject\\gameObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datem\\AppData\\Roaming\\NuGet\\NuGet.Config",

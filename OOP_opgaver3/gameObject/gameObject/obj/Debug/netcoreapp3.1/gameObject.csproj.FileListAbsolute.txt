@@ -1,0 +1,13 @@
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\obj\Debug\netcoreapp3.1\gameObject.csprojAssemblyReference.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\obj\Debug\netcoreapp3.1\gameObject.AssemblyInfoInputs.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\obj\Debug\netcoreapp3.1\gameObject.AssemblyInfo.cs
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\obj\Debug\netcoreapp3.1\gameObject.csproj.CoreCompileInputs.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\bin\Debug\netcoreapp3.1\gameObject.exe
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\bin\Debug\netcoreapp3.1\gameObject.deps.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\bin\Debug\netcoreapp3.1\gameObject.runtimeconfig.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\bin\Debug\netcoreapp3.1\gameObject.runtimeconfig.dev.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\bin\Debug\netcoreapp3.1\gameObject.dll
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\bin\Debug\netcoreapp3.1\gameObject.pdb
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\obj\Debug\netcoreapp3.1\gameObject.dll
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\obj\Debug\netcoreapp3.1\gameObject.pdb
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\gameObject\gameObject\obj\Debug\netcoreapp3.1\gameObject.genruntimeconfig.cache

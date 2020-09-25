@@ -1,0 +1,13 @@
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\bin\Debug\netcoreapp3.1\OOP_opgaver3.exe
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\bin\Debug\netcoreapp3.1\OOP_opgaver3.deps.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\bin\Debug\netcoreapp3.1\OOP_opgaver3.runtimeconfig.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\bin\Debug\netcoreapp3.1\OOP_opgaver3.runtimeconfig.dev.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\bin\Debug\netcoreapp3.1\OOP_opgaver3.dll
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\bin\Debug\netcoreapp3.1\OOP_opgaver3.pdb
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\obj\Debug\netcoreapp3.1\OOP_opgaver3.csprojAssemblyReference.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\obj\Debug\netcoreapp3.1\OOP_opgaver3.AssemblyInfoInputs.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\obj\Debug\netcoreapp3.1\OOP_opgaver3.AssemblyInfo.cs
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\obj\Debug\netcoreapp3.1\OOP_opgaver3.csproj.CoreCompileInputs.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\obj\Debug\netcoreapp3.1\OOP_opgaver3.dll
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\obj\Debug\netcoreapp3.1\OOP_opgaver3.pdb
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\OOP_opgaver3\OOP_opgaver3\OOP_opgaver3\obj\Debug\netcoreapp3.1\OOP_opgaver3.genruntimeconfig.cache
