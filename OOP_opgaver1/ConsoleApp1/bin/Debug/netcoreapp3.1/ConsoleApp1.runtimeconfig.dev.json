@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\datem\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\datem\\.nuget\\packages"
-    ]
-  }
-}
