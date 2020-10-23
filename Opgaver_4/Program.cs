@@ -1,10 +1,14 @@
 ﻿using System;
+using System.Security.Cryptography;
 using System.Threading;
 
-namespace Opgaver_4 {
-    class Program {
+namespace Opgaver_4
+{
+    class Program 
+    {
 
-        static void Main(string[] args) {
+        static void Main(string[] args) 
+        {
             //Console.WriteLine("Input something...");
             //Console.WriteLine(ReadInteger());
             //while (true) {
@@ -21,22 +25,77 @@ namespace Opgaver_4 {
             //niels.Withdrawl(15);
             //Console.WriteLine(niels.Balance);
             //Console.Read();
-                GearBox car = new GearBox();
+            /*
+            GearBox car = new GearBox();
             try {
                 car.changeGear(-1);
                 car.changeGear(1);
                 car.changeGear(5);
                 Console.WriteLine(car.CurrentGear);
-           
+
                 Console.ReadLine();
 
             } catch (Exception e) {
                 car.changeGear(1);
                 Console.WriteLine(car.CurrentGear);
             }
+            */
+
+            PrinterFromHELL p = new PrinterFromHELL();
+
+            while (true)
+            {
+                try
+                {
+                    p.print();
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    if (Console.ReadLine()== "ok")
+                    {
+                        continue;
+                    };
+                }
+            }
+
         }
 
-        static int ReadInteger() {
+
+        public class PrinterFromHELL
+        {
+            Random r = new Random();
+            public void print()
+            {
+                int x = r.Next(1, 4);
+
+                try
+                {
+                    switch (x)
+                    {
+                        case 1:
+                            throw new OutOfPaperException("I have nothing to print on");
+                        case 2:
+                            throw new OutOfTonerException("I have nothing to print with");
+                        case 3:
+                            throw new PaperJamException("I cannot print");
+                        case 4: 
+                        default:
+                            break;
+                    }
+                }
+                catch (Exception)
+                {
+
+                    throw;
+                }
+
+            }
+        }
+
+
+        static int ReadInteger() 
+        {
             string input = Console.ReadLine();
             int parsed;
             try {
@@ -48,56 +107,5 @@ namespace Opgaver_4 {
             }
         }
     }
-
-    public class BankAccount{
-        
-        public BankAccount (decimal balance) 
-        {
-            if (balance >= 0) {
-                Balance = balance;
-            } else {
-                throw new InsufficientFundsException();
-            }
-        }
-
-        public decimal Balance { get; private set; }
-
-        public void Deposit (decimal depositAmount) 
-        {
-            Balance += depositAmount;
-        }
-
-        public void Withdrawl (decimal amount) {
-            if (Balance >= amount) {
-                Balance -= amount;
-            } else {
-                throw new InsufficientFundsException();
-            }
-        }
-    }
-
-    public class InsufficientFundsException: Exception { }
-
-    public class GearBox 
-    {
-        public int CurrentGear { get; set; } = 1;
-        public void changeGear(int gear) 
-        {
-           if(Math.Abs(Math.Abs(CurrentGear) - Math.Abs(gear)) > 1) 
-            {
-                throw new IllegalGearChangeException("Illegal gear change...");
-            }
-            CurrentGear = gear;
-            Console.WriteLine(gear);
-        }
-    }
-
-    public class IllegalGearChangeException : Exception 
-    {
-        public IllegalGearChangeException(string message) : base(message) 
-        {
-        }
-    }
-
 }
 

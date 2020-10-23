@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\simon\\.nuget\\packages\\": {}
+    "C:\\Users\\datem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simon\\OneDrive - Aalborg Universitet\\3. Semester\\OOP\\Opgaver\\OOP_opgaver_p3\\Opgaver_4\\Opgaver_4.csproj",
+      "projectUniqueName": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\Opgaver_4\\Opgaver_4.csproj",
       "projectName": "Opgaver_4",
-      "projectPath": "C:\\Users\\simon\\OneDrive - Aalborg Universitet\\3. Semester\\OOP\\Opgaver\\OOP_opgaver_p3\\Opgaver_4\\Opgaver_4.csproj",
-      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon\\OneDrive - Aalborg Universitet\\3. Semester\\OOP\\Opgaver\\OOP_opgaver_p3\\Opgaver_4\\obj\\",
+      "projectPath": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\Opgaver_4\\Opgaver_4.csproj",
+      "packagesPath": "C:\\Users\\datem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\datem\\OneDrive\\Documents\\GitHub\\OOP_opgaver\\Opgaver_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\datem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

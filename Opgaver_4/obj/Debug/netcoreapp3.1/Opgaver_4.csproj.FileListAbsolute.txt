@@ -11,3 +11,16 @@ C:\Users\simon\OneDrive - Aalborg Universitet\3. Semester\OOP\Opgaver\OOP_opgave
 C:\Users\simon\OneDrive - Aalborg Universitet\3. Semester\OOP\Opgaver\OOP_opgaver_p3\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.dll
 C:\Users\simon\OneDrive - Aalborg Universitet\3. Semester\OOP\Opgaver\OOP_opgaver_p3\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.pdb
 C:\Users\simon\OneDrive - Aalborg Universitet\3. Semester\OOP\Opgaver\OOP_opgaver_p3\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.genruntimeconfig.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\bin\Debug\netcoreapp3.1\Opgaver_4.exe
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\bin\Debug\netcoreapp3.1\Opgaver_4.deps.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\bin\Debug\netcoreapp3.1\Opgaver_4.runtimeconfig.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\bin\Debug\netcoreapp3.1\Opgaver_4.runtimeconfig.dev.json
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\bin\Debug\netcoreapp3.1\Opgaver_4.dll
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\bin\Debug\netcoreapp3.1\Opgaver_4.pdb
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.csprojAssemblyReference.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.AssemblyInfoInputs.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.AssemblyInfo.cs
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.csproj.CoreCompileInputs.cache
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.dll
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.pdb
+C:\Users\datem\OneDrive\Documents\GitHub\OOP_opgaver\Opgaver_4\obj\Debug\netcoreapp3.1\Opgaver_4.genruntimeconfig.cache
