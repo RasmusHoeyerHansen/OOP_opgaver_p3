@@ -1,0 +1,12 @@
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\bin\Debug\netcoreapp3.1\OpgLek6.2.exe
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\bin\Debug\netcoreapp3.1\OpgLek6.2.deps.json
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\bin\Debug\netcoreapp3.1\OpgLek6.2.runtimeconfig.json
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\bin\Debug\netcoreapp3.1\OpgLek6.2.runtimeconfig.dev.json
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\bin\Debug\netcoreapp3.1\OpgLek6.2.dll
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\bin\Debug\netcoreapp3.1\OpgLek6.2.pdb
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\obj\Debug\netcoreapp3.1\OpgLek6.2.AssemblyInfoInputs.cache
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\obj\Debug\netcoreapp3.1\OpgLek6.2.AssemblyInfo.cs
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\obj\Debug\netcoreapp3.1\OpgLek6.2.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\obj\Debug\netcoreapp3.1\OpgLek6.2.dll
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\obj\Debug\netcoreapp3.1\OpgLek6.2.pdb
+C:\Users\kaspe\Desktop\OpgLek6.2\OpgLek6.2\obj\Debug\netcoreapp3.1\OpgLek6.2.genruntimeconfig.cache
